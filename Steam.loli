@@ -21,7 +21,7 @@
   "BanLoopEvasionOverride": -1,
   "EncodeData": false,
   "AllowedWordlist1": "UserPass",
-  "AllowedWordlist2": "",
+  "AllowedWordlist2": "User:Pass",
   "DataRules": [],
   "CustomInputs": [],
   "ForceHeadless": false,
